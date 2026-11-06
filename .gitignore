@@ -1,0 +1,16 @@
+# Dependencies (downloaded libraries, very large)
+node_modules/
+
+# Environment variables (will contain secrets)
+.env
+
+# Build output
+build/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
